@@ -1,0 +1,1127 @@
+{
+    "TrainingExamples": [
+        {
+            "Input": "[00:00:00.960 --> 00:00:04.040]   Hello, thank you for calling Southern Farm Bureau Life Insurance.\n[00:00:04.040 --> 00:00:06.640]   My name is Sarah Wilson. How may I assist you today?\n[00:00:06.640 --> 00:00:13.880]   Yeah, I've been trying to get this sorted out for WEEKS now. Policy number 12345. This is ridiculous.\n[00:00:13.880 --> 00:00:18.240]   I apologize for any frustration. May I have your name please?\n[00:00:18.240 --> 00:00:24.960]   Robert Johnson. And let me tell you, I am beyond frustrated. I've called FOUR times already.\n[00:00:24.960 --> 00:00:30.320]   I understand, Mr. Johnson. Could you help me understand what's been happening?\n[00:00:30.320 --> 00:00:45.760]   Look, I've been paying this policy for 15 years. FIFTEEN YEARS. And suddenly last month, you people claim you didn't receive my payment. But it came out of my account! I have the statement right here!\n[00:00:45.760 --> 00:00:52.480]   I apologize for this situation. I'd be happy to look into this for you. May I have your date of birth to verify your account?\n[00:00:52.480 --> 00:01:02.320]   August 12, 1968. And while you're looking that up, let me tell you that your website is absolutely useless. I tried to handle this online and couldn't even log in!\n[00:01:02.320 --> 00:01:12.640]   Thank you for that information, Mr. Johnson. I see your policy here. Could you tell me the date of the payment in question?\n[00:01:12.640 --> 00:01:22.880]   October 15th. $157.42. Like I said, it's right here on my bank statement. How do you people lose a payment that was automatically deducted?\n[00:01:22.880 --> 00:01:32.320]   I understand your concern. I'm looking at our payment history now. Would you be able to provide the transaction ID from your bank statement?\n[00:01:32.320 --> 00:01:45.760]   Are you kidding me? I gave this number to the last THREE people! It's SFB1592487. I wrote it down because I knew someone would ask for it AGAIN.\n[00:01:45.760 --> 00:01:55.440]   Thank you for having that ready, Mr. Johnson. I'm showing a pending transaction with that ID, but it seems there might be a processing delay with our bank.\n[00:01:55.440 --> 00:02:10.880]   A processing delay? For THREE WEEKS? This is absolutely unacceptable! And let me tell you something else - I've had to take time off work FOUR times now to deal with this!\n[00:02:10.880 --> 00:02:20.320]   I completely understand your frustration, Mr. Johnson. Let me access our payment processing system to get more details.\n[00:02:20.320 --> 00:02:35.640]   While you're doing that, let me tell you about the late fees I'm getting charged. LATE FEES! When the money left my account! This is highway robbery!\n[00:02:35.640 --> 00:02:45.280]   I can certainly help address those late fees, Mr. Johnson. Could you confirm the amount of the late fees you're seeing?\n[00:02:45.280 --> 00:03:05.440]   $25! Twenty-five dollars because YOU people can't process a payment properly! And that's not even counting the overdraft fee I got hit with when you tried to pull another payment this month!\n[00:03:05.440 --> 00:03:15.680]   I apologize for that inconvenience. I can definitely look into removing those fees. Could you tell me about the overdraft charge?\n[00:03:15.680 --> 00:03:35.240]   The bank charged me $34 because you tried to withdraw another payment when the first one hadn't even cleared! Who's going to reimburse me for that? And the hours I've spent on the phone?\n[00:03:35.240 --> 00:03:45.520]   Let me look into our double payment prevention protocols. This shouldn't have happened. May I put you on a brief hold while I check something?\n[00:03:45.520 --> 00:03:55.840]   Fine. But don't leave me hanging for 20 minutes like the last person did!\n[00:03:55.840 --> 00:04:05.120]   I assure you it will just be 2-3 minutes, Mr. Johnson. I'll be right back.\n[00:04:05.120 --> 00:04:35.360]   [Hold music plays]\n[00:04:35.360 --> 00:04:45.680]   Thank you for your patience, Mr. Johnson. I've found some information about the original transaction.\n[00:04:45.680 --> 00:05:05.920]   Well it's about time! And you know what else? While I was on hold, I found ANOTHER letter from you people threatening to cancel my policy. Do you know what that would do to my family if something happened to me?\n[00:05:05.920 --> 00:05:15.440]   I assure you we won't let your policy lapse while we resolve this. I see here that the original payment was flagged for review because...\n[00:05:15.440 --> 00:05:35.680]   Flagged for review? What does that even mean? I've been making the same payment, from the same account, on the same day, for FIFTEEN YEARS! What suddenly needs to be reviewed?\n[00:05:35.680 --> 00:05:50.240]   Our system flagged it because there was a banking routing number update in our system. However, I can see this was an error on our end...\n[00:05:50.240 --> 00:06:10.480]   An error on your end? Well, isn't that just perfect! So you're admitting it's your fault! I want compensation for all this trouble. All these fees, all this time I've wasted. Who's going to make this right?\n[00:06:10.480 --> 00:06:25.920]   I understand, Mr. Johnson. I can submit a request for fee reimbursement to our claims department. They typically review these cases within 5-7 business days...\n[00:06:25.920 --> 00:06:45.160]   5-7 business days? MORE waiting? This is outrageous! I want to speak to someone who can fix this TODAY. Get me your supervisor!\n[00:06:45.160 --> 00:07:00.480]   I understand you'd like to speak with a supervisor. Unfortunately, they're all in a department meeting right now. I can have one call you back within...\n[00:07:00.480 --> 00:07:20.720]   No! No more callbacks! The last supervisor never called! The one before that gave me the runaround! I'm not hanging up until this is resolved!\n[00:07:20.720 --> 00:07:35.360]   I hear your frustration, Mr. Johnson. While we wait for a supervisor to become available, I can at least start the reimbursement paperwork. Would that be helpful?\n[00:07:35.360 --> 00:07:55.600]   More paperwork? Let me guess - that'll take another 30 days to process? Meanwhile, I'm out almost $60 in fees, hours of my time, and still getting threatening letters!\n[00:07:55.600 --> 00:08:15.840]   I'll mark this as urgent in our system, Mr. Johnson. I can also send an immediate notice to our communications department to stop any automated letters while we resolve this.\n[00:08:15.840 --> 00:08:35.080]   You know what? I've been with your company for 15 years. Never missed a payment. Never caused any problems. And this is how I'm treated? Maybe I should just take my business elsewhere!\n[00:08:35.080 --> 00:08:50.320]   We truly value your loyalty, Mr. Johnson. I'm doing everything I can to resolve this. Let me check one more time if a supervisor is available.\n[00:08:50.320 --> 00:09:10.560]   Go ahead, check. But I'm telling you right now, if this isn't fixed today, I'm calling my lawyer. And I'm going to tell everyone I know about how this company treats its loyal customers!\n[00:09:10.560 --> 00:09:25.920]   I understand, sir. Please hold just one moment while I check.\n[00:09:25.920 --> 00:09:45.160]   [Brief hold]\n[00:09:45.160 --> 00:10:00.400]   Mr. Johnson, I've just been informed that all our supervisors are still unavailable. I can make sure you're first on the callback list...\n[00:10:00.400 --> 00:10:15.640]   That's it! I'm done! Absolutely done! You'll be hearing from my lawyer! [sound of phone slamming]\n[00:10:15.640 --> 00:10:20.000]   [Call disconnected]",
+            "ExpectedOutput": {
+                "id": "2024b001-0001-0000-0000-000000000000",
+                "comprehensiveCallSummary": "Customer Robert Johnson called regarding a payment processing issue, expressing severe frustration over a payment that was deducted but not processed, resulting in late fees and overdraft charges, ultimately ending in threats of legal action",
+                "keyPoints": [
+                "Payment processing failure despite bank account deduction",
+                "Multiple unsuccessful resolution attempts",
+                "Late fees and overdraft charges applied",
+                "System error related to routing number update",
+                "Customer threatening legal action"
+                ],
+                "policies": [
+                {
+                    "policyNumber": "12345",
+                    "policyType": "Unspecified",
+                    "policyHolder": "Robert Johnson",
+                    "startDate": null,
+                    "premiumInformation": {
+                    "premium": 157.42,
+                    "premiumType": "Monthly"
+                    }
+                }
+                ],
+                "paymentInformation": {
+                "changes": [
+                    {
+                    "type": "Failed Payment",
+                    "amount": 157.42,
+                    "effectiveDate": "2023-10-15",
+                    "reason": "Routing Number Update Error"
+                    }
+                ]
+                },
+                "referenceNumbers": [
+                {
+                    "number": "SFB1592487",
+                    "type": "Transaction ID",
+                    "date": "2023-10-15"
+                }
+                ],
+                "customer": {
+                "firstName": "Robert",
+                "lastName": "Johnson",
+                "dateOfBirth": "1968-08-12",
+                "relationship": "Policyholder",
+                "loyaltyYears": 15
+                },
+                "importantFacts": [
+                {
+                    "fact": "Customer has 15-year history with company",
+                    "type": "CustomerLoyalty",
+                    "confidence": 0.99
+                },
+                {
+                    "fact": "Payment failed due to routing number update error",
+                    "type": "SystemIssue",
+                    "confidence": 0.95
+                },
+                {
+                    "fact": "Customer called four times previously",
+                    "type": "ServiceHistory",
+                    "confidence": 0.99
+                }
+                ],
+                "importantNumbers": [
+                {
+                    "number": "157.42",
+                    "type": "PaymentAmount",
+                    "confidence": 0.99
+                },
+                {
+                    "number": "25.00",
+                    "type": "LateFee",
+                    "confidence": 0.99
+                },
+                {
+                    "number": "34.00",
+                    "type": "OverdraftFee",
+                    "confidence": 0.99
+                }
+                ],
+                "importantDates": [
+                {
+                    "date": "2023-10-15",
+                    "type": "PaymentAttemptDate",
+                    "confidence": 0.95
+                }
+                ],
+                "singleSentenceSummary": "A 15-year customer experienced severe frustration over a failed payment processing incident that resulted in multiple fees and unsuccessful resolution attempts, culminating in threats of legal action",
+                "conversationTone": "Highly agitated and hostile, with escalating anger throughout the call despite representative's attempts to de-escalate",
+                "reasonForCalling": "Resolution of payment processing issue and associated fees",
+                "solutionProposed": true,
+                "offeredSolution": "Fee reimbursement request submission and immediate halt to automated cancellation notices",
+                "confidenceScores": {
+                "overallConfidence": 0.95,
+                "factExtraction": 0.98,
+                "policyInformation": 0.90,
+                "customerInformation": 0.99
+                },
+                "crop": {
+                "type": "CustomerRetentionRisk",
+                "trigger": "Severe customer dissatisfaction with payment processing and customer service",
+                "recommendation": "Immediate supervisor callback, expedited fee reimbursement, and retention specialist intervention",
+                "evidence": [
+                    "15-year customer threatening to leave",
+                    "Multiple failed resolution attempts",
+                    "Threat of legal action",
+                    "Intent to share negative experience",
+                    "Expression of lost trust"
+                ],
+                "policyNumberReference": "12345",
+                "originalAnalysis": "2024b001-0001-0000-0000-000000000000"
+                }
+            }
+        },
+
+        {
+            "Input": "[00:00:00.960 --> 00:00:04.040]   Thank you for calling Southern Farm Bureau Life Insurance.\n[00:00:04.040 --> 00:00:06.640]   This is Rachel speaking. How may I help you?\n[00:00:06.640 --> 00:00:13.880]   Hi Rachel, I need to update some information on my uncle's policy. He's been helping with my kids' college funds.\n[00:00:13.880 --> 00:00:18.240]   I'd be happy to help. May I have the policy number?\n[00:00:18.240 --> 00:00:24.960]   Yes, it's 49275. His name is William Chen.\n[00:00:24.960 --> 00:00:30.320]   Thank you. And may I have your name?\n[00:00:30.320 --> 00:00:45.760]   Michael Chen. Uncle Will's been mentoring me on financial planning. He suggested I help manage his policies since I'm in finance.\n[00:00:45.760 --> 00:00:52.480]   I understand. What information needs to be updated?\n[00:00:52.480 --> 00:01:02.320]   We're updating his estate planning. He'd like to increase his coverage and modify some beneficiaries.\n[00:01:02.320 --> 00:01:12.640]   I can help with that. I see this is a universal life policy with a current value of $175,000.\n[00:01:12.640 --> 00:01:22.880]   That's right. He'd like to increase it to $300,000 given the current estate tax thresholds.\n[00:01:22.880 --> 00:01:32.320]   We can discuss that. First, do you have authorization to make changes to the policy?\n[00:01:32.320 --> 00:01:45.760]   Yes, he added me as an authorized contact last month. He's semi-retired now, so I'm helping organize everything.\n[00:01:45.760 --> 00:01:55.440]   Perfect, I do see that here. What changes would you like to make to the beneficiaries?\n[00:01:55.440 --> 00:02:10.880]   He wants to add my kids to the policy - splitting it four ways instead of two. College is getting expensive.\n[00:02:10.880 --> 00:02:20.320]   I understand. We'll need your uncle to sign the beneficiary change form. I can email that today.\n[00:02:20.320 --> 00:02:35.640]   Actually, could you send it to my email? It's mchen@firstcapital.com. I handle his paperwork.\n[00:02:35.640 --> 00:02:45.280]   The policy shows a different contact email. Has that changed?\n[00:02:45.280 --> 00:03:05.440]   Yes, he rarely checks that one now. I've been managing his correspondence since he started traveling more.\n[00:03:05.440 --> 00:03:15.680]   For the coverage increase, we'll need to update some financial information. Is he available for a call?\n[00:03:15.680 --> 00:03:35.240]   He's actually in Singapore right now - big time difference. But I have all his information here. He's very thorough.\n[00:03:35.240 --> 00:03:45.520]   We'll still need him to complete some parts of the application. When does he return?\n[00:03:45.520 --> 00:03:55.840]   His schedule's flexible. What if we start with just the beneficiary changes? That's the priority.\n[00:03:55.840 --> 00:04:05.120]   Of course. The form will need to be notarized. Should I mail it to the address on file?\n[00:04:05.120 --> 00:04:35.360]   Better send it to my office: 2200 Market Street, Suite 1450. Our corporate notary can handle it.\n[00:04:35.360 --> 00:04:45.680]   What's your relationship with the current beneficiaries?\n[00:04:45.680 --> 00:05:05.920]   My sister and I are the current beneficiaries. We want to add my kids: Amy, age 16, and Jason, age 14.\n[00:05:05.920 --> 00:05:15.440]   And would this be an equal split between all four beneficiaries?\n[00:05:15.440 --> 00:05:35.680]   Yes, 25% each. Once that's done, we can discuss the coverage increase. He's very interested in estate planning vehicles.\n[00:05:35.680 --> 00:05:50.240]   I'll prepare those forms. Is there a good contact number for your uncle once he's back?\n[00:05:50.240 --> 00:06:10.480]   Just use my cell: 555-0182. I coordinate his schedule. Did you need his social security number again?\n[00:06:10.480 --> 00:06:25.920]   No, we have that on file. I'll send the forms today. Anything else I can help with?\n[00:06:25.920 --> 00:06:45.160]   That's all for now. I'll watch for those forms. Uncle Will's going to be so pleased we're getting this done.\n[00:06:45.160 --> 00:07:00.480]   Glad I could help. Please let us know when he's back so we can discuss the coverage increase.\n[00:07:00.480 --> 00:07:02.480]   Will do. Thanks Rachel.",
+            "ExpectedOutput": {
+            "id": "2024b002-0001-0000-0000-000000000000",
+            "comprehensiveCallSummary": "Michael Chen requested significant changes to William Chen's policy, including beneficiary modifications and coverage increase, while claiming recent authorization and requesting multiple changes to communication channels",
+            "keyPoints": [
+              "Request to increase coverage from $175,000 to $300,000",
+              "Request to modify beneficiary split from two to four way",
+              "Multiple attempts to redirect communications",
+              "Claims of recent authorization as contact",
+              "Policyholder reportedly unavailable in Singapore"
+            ],
+            "policies": [
+              {
+                "policyNumber": "49275",
+                "policyType": "Universal Life",
+                "policyAmount": 175000.00,
+                "policyHolder": "William Chen",
+                "startDate": null,
+                "beneficiaries": {
+                  "primary": [
+                    "Michael Chen",
+                    "Unnamed Sister"
+                  ],
+                  "contingent": [],
+                  "intendedChanges": [
+                    {
+                      "date": null,
+                      "requestedBy": "Michael Chen",
+                      "status": "Pending",
+                      "intendedBeneficiaries": [
+                        "Michael Chen",
+                        "Unnamed Sister",
+                        "Amy Chen",
+                        "Jason Chen"
+                      ]
+                    }
+                  ]
+                },
+                "premiumInformation": {
+                  "premium": 0.00,
+                  "premiumType": "Universal Life"
+                }
+              }
+            ],
+            "addresses": {
+              "current": null,
+              "future": {
+                "street": "2200 Market Street, Suite 1450",
+                "city": null,
+                "state": null,
+                "zipCode": null,
+                "effectiveDate": null
+              }
+            },
+            "customer": {
+              "firstName": "Michael",
+              "lastName": "Chen",
+              "email": "mchen@firstcapital.com",
+              "phone": "555-0182",
+              "relationship": "Nephew"
+            },
+            "referenceNumbers": [],
+            "importantFacts": [
+              {
+                "fact": "Caller claims authorization from last month",
+                "type": "Authorization",
+                "confidence": 0.95
+              },
+              {
+                "fact": "Request to redirect all communications and documents",
+                "type": "CommunicationChange",
+                "confidence": 0.99
+              },
+              {
+                "fact": "Policyholder reportedly in Singapore",
+                "type": "Availability",
+                "confidence": 0.95
+              },
+              {
+                "fact": "Two minors to be added as beneficiaries",
+                "type": "BeneficiaryChange",
+                "confidence": 0.99
+              }
+            ],
+            "importantNumbers": [
+              {
+                "number": "175000",
+                "type": "CurrentPolicyValue",
+                "confidence": 0.99
+              },
+              {
+                "number": "300000",
+                "type": "RequestedPolicyValue",
+                "confidence": 0.99
+              },
+              {
+                "number": "16",
+                "type": "BeneficiaryAge",
+                "confidence": 0.99
+              },
+              {
+                "number": "14",
+                "type": "BeneficiaryAge",
+                "confidence": 0.99
+              }
+            ],
+            "importantDates": [
+              {
+                "date": "Last month",
+                "type": "ClaimedAuthorization",
+                "confidence": 0.90
+              }
+            ],
+            "singleSentenceSummary": "Caller requested substantial policy changes including doubling coverage and modifying beneficiaries while attempting to redirect all communications away from the policyholder, raising several red flags for potential unauthorized activity",
+            "conversationTone": "Professional and knowledgeable but evasive when asked about policyholder availability",
+            "reasonForCalling": "Policy modification request for coverage increase and beneficiary changes",
+            "solutionProposed": true,
+            "offeredSolution": "Send beneficiary change forms and require direct policyholder involvement for coverage increase",
+            "confidenceScores": {
+              "overallConfidence": 0.95,
+              "factExtraction": 0.98,
+              "policyInformation": 0.99,
+              "customerInformation": 0.90
+            },
+            "crop": {
+              "type": "PossibleMaliciousActivity",
+              "trigger": "Multiple suspicious patterns in authorization and communication changes",
+              "recommendation": "Freeze all policy changes pending direct verification with policyholder through original contact information",
+              "evidence": [
+                "Multiple attempts to redirect communication channels",
+                "Claim of recent authorization without verification",
+                "Substantial policy value increase request",
+                "Policyholder reportedly unreachable overseas",
+                "Request to modify beneficiary structure",
+                "Attempt to handle notarization through caller's office",
+                "Pattern of isolating policyholder from communications"
+              ],
+              "policyNumberReference": "49275",
+              "originalAnalysis": "2024b002-0001-0000-0000-000000000000"
+            }
+        }
+        },
+        
+        {
+            "Input": "[00:00:00.960 --> 00:00:04.040]   Thank you for calling Southern Farm Bureau Life Insurance.\n[00:00:04.040 --> 00:00:06.640]   This is Mark speaking. How can I help you today?\n[00:00:06.640 --> 00:00:13.880]   Hi, I have some questions about my term policy. I was hoping to take out a loan against it for my daughter's college.\n[00:00:13.880 --> 00:00:18.240]   I can help explain that. May I have your policy number?\n[00:00:18.240 --> 00:00:24.960]   Yes, it's 82147. My name is James Wilson.\n[00:00:24.960 --> 00:00:35.320]   Thank you Mr. Wilson. I see your policy here. Could you tell me more about what you're trying to do?\n[00:00:35.320 --> 00:00:55.760]   Well, I've been paying into this policy for almost two years now, and my daughter is starting college this fall. I was reading about policy loans and thought I could borrow against what I've paid in.\n[00:00:55.760 --> 00:01:10.480]   I understand. Let me explain something important about your policy type. You have a term life policy, which works differently from permanent life insurance policies.\n[00:01:10.480 --> 00:01:15.720]   What do you mean? I've been paying $45.75 every month.\n[00:01:15.720 --> 00:01:45.880]   Yes, those payments secure your death benefit of $500,000, but term insurance doesn't build up cash value that you can borrow against. It provides pure insurance coverage for a specific period.\n[00:01:45.880 --> 00:02:05.240]   Oh... I didn't realize that. So what happens to all the money I've been paying in?\n[00:02:05.240 --> 00:02:35.640]   The premiums pay for your current coverage, similar to how car insurance works. Would you like me to explain more about how term insurance works, and maybe discuss some alternatives for college funding?\n[00:02:35.640 --> 00:02:45.320]   Yes, please. I'm clearly confused about how this works.\n[00:02:45.320 --> 00:03:15.480]   I'd be happy to explain. First, let me ask - has anyone ever discussed converting your term policy to a permanent policy? That's an option that would build cash value over time.\n[00:03:15.480 --> 00:03:25.720]   No, what's that? The policy just expires?\n[00:03:25.720 --> 00:03:55.880]   Yes, your current policy will expire in 2042 if not converted. Let me connect you with one of our agents who can do a complete review of your coverage and explain all your options. They can also discuss some other financial solutions for college expenses.\n[00:03:55.880 --> 00:04:05.240]   That would be helpful. I feel a bit embarrassed that I didn't understand this better.\n[00:04:05.240 --> 00:04:35.360]   Please don't be embarrassed - these are complex products and that's why we're here to help. I can see from your email on file it's jwilson@email.com. Would you prefer a morning or afternoon appointment?\n[00:04:35.360 --> 00:04:45.680]   Morning would be better. And yes, that's my email.\n[00:04:45.680 --> 00:04:55.920]   Great, and is your phone number still 601-555-0192?\n[00:04:55.920 --> 00:05:05.440]   Yes, that's correct.\n[00:05:05.440 --> 00:05:35.640]   Perfect. I'll have an agent contact you tomorrow morning to set up a time. They'll explain everything about how your current policy works and discuss options for building cash value if that's something you're interested in.\n[00:05:35.640 --> 00:05:45.320]   Thank you, I appreciate your help.",
+            "ExpectedOutput" : {
+                "id": "2024b007-0001-0000-0000-000000000000",
+                "comprehensiveCallSummary": "Existing term policyholder James Wilson called with questions about his policy's cash value, revealing fundamental misunderstanding of term insurance features and demonstrating need for product education",
+                "keyPoints": [
+                "Customer confusion about term policy features",
+                "Misunderstanding about cash value accumulation",
+                "Questions about converting to permanent insurance",
+                "Uncertainty about premium increases",
+                "Confusion about policy expiration"
+                ],
+                "policies": [
+                {
+                    "policyNumber": "82147",
+                    "policyType": "Term Life",
+                    "policyAmount": 500000.00,
+                    "policyHolder": "James Wilson",
+                    "startDate": "2022-05-15",
+                    "premiumInformation": {
+                    "premium": 45.75,
+                    "premiumType": "Monthly Fixed"
+                    }
+                }
+                ],
+                "customer": {
+                "firstName": "James",
+                "lastName": "Wilson",
+                "email": "jwilson@email.com",
+                "phone": "601-555-0192",
+                "relationship": "Policyholder"
+                },
+                "importantFacts": [
+                {
+                    "fact": "Customer attempting to borrow against term policy",
+                    "type": "ProductMisunderstanding",
+                    "confidence": 0.99
+                },
+                {
+                    "fact": "Unaware term policy expires without value",
+                    "type": "ProductKnowledge",
+                    "confidence": 0.99
+                },
+                {
+                    "fact": "Interest in building cash value",
+                    "type": "CustomerIntent",
+                    "confidence": 0.95
+                }
+                ],
+                "importantNumbers": [
+                {
+                    "number": "500000",
+                    "type": "DeathBenefit",
+                    "confidence": 0.99
+                },
+                {
+                    "number": "45.75",
+                    "type": "MonthlyPremium",
+                    "confidence": 0.99
+                }
+                ],
+                "importantDates": [
+                {
+                    "date": "2042-05-15",
+                    "type": "PolicyExpirationDate",
+                    "confidence": 0.99
+                }
+                ],
+                "singleSentenceSummary": "Term life policyholder demonstrated significant misunderstanding of policy features when attempting to access non-existent cash value, indicating need for comprehensive product education",
+                "conversationTone": "Initially confused and slightly frustrated, becoming more receptive to explanation",
+                "reasonForCalling": "Attempting to access policy cash value from term policy",
+                "solutionProposed": true,
+                "offeredSolution": "Scheduled meeting with agent to review policy features and discuss permanent insurance options",
+                "confidenceScores": {
+                "overallConfidence": 0.98,
+                "factExtraction": 0.99,
+                "policyInformation": 0.99,
+                "customerInformation": 0.95
+                },
+                "crop": {
+                "type": "CustomerProductEducation",
+                "trigger": "Fundamental misunderstanding of term life insurance features",
+                "recommendation": "Provide immediate education about term vs permanent insurance and schedule agent review of coverage needs",
+                "evidence": [
+                    "Attempted to access cash value in term policy",
+                    "Unaware of term policy expiration",
+                    "Confusion about premium structure",
+                    "Interest in features only available in permanent insurance",
+                    "Lack of understanding about policy conversion options"
+                ],
+                "policyNumberReference": "82147",
+                "originalAnalysis": "2024b007-0001-0000-0000-000000000000"
+                }
+            }
+        },
+
+        {
+            "Input": "[00:00:00.960 --> 00:00:04.040]   Thank you for calling Southern Farm Bureau Life Insurance.\n[00:00:04.040 --> 00:00:06.640]   This is Karen speaking. How may I assist you today?\n[00:00:06.640 --> 00:00:13.880]   Hi Karen, I'm calling about my mother's life insurance policy. She passed away last month, and I need help with the claim.\n[00:00:13.880 --> 00:00:18.240]   I'm very sorry for your loss. May I have your mother's name and policy number?\n[00:00:18.240 --> 00:00:24.960]   Her name was Margaret Thompson, policy number 73921.\n[00:00:24.960 --> 00:00:30.320]   And may I have your name?\n[00:00:30.320 --> 00:00:35.760]   I'm Susan Thompson, her daughter.\n[00:00:35.760 --> 00:00:45.480]   Thank you, Ms. Thompson. I see the policy here. Have you already submitted any documentation for the claim?\n[00:00:45.480 --> 00:00:58.320]   Yes, I mailed in the death certificate last week, but I got a letter saying I need more documents. I'm not sure exactly what they need.\n[00:00:58.320 --> 00:01:15.640]   Let me check the claim status. Yes, I see we received the death certificate on the 15th. For this claim, we'll need several additional documents because your mother's policy has a trust as the beneficiary.\n[00:01:15.640 --> 00:01:25.880]   Oh right, she set up a trust a few years ago. What exactly do you need?\n[00:01:25.880 --> 00:01:55.440]   We'll need a copy of the trust document showing you as the trustee, your personal identification, and the trust's tax ID number. We also need the trust certification form completed by the attorney who set up the trust.\n[00:01:55.440 --> 00:02:15.720]   That's a lot. The attorney who set up the trust retired last year. Will that be a problem?\n[00:02:15.720 --> 00:02:35.880]   No, but we'll need the successor attorney's information on the trust certification form. Do you have the current attorney's contact information?\n[00:02:35.880 --> 00:02:45.240]   Yes, it's James Williams at Williams & Associates.\n[00:02:45.240 --> 00:02:55.640]   Perfect. Let me explain each document we need and the best way to submit them.\n[00:02:55.640 --> 00:03:25.720]   First, we need the complete trust document - all pages, not just the signature pages. It must show the succession of trustees and beneficiary designations. Second, we need two forms of ID from you - a photo ID like a driver's license and another official document like a social security card.\n[00:03:25.720 --> 00:03:45.880]   Okay, I have all that. Should I just mail copies?\n[00:03:45.880 --> 00:04:05.240]   Actually, for trust claims, we need certified copies of the trust document. The attorney can provide those. For your ID, regular copies are fine, but they need to be notarized.\n[00:04:05.240 --> 00:04:15.640]   This seems really complicated. How long will all this take?\n[00:04:15.640 --> 00:04:45.320]   Once we receive all required documents, processing typically takes 10-15 business days. I'll email you a detailed checklist of everything needed. What's your email address?\n[00:04:45.320 --> 00:04:55.480]   It's susan.thompson@email.com.\n[00:04:55.480 --> 00:05:15.640]   Thank you. I'm sending that now. The checklist includes our secure upload link - that's faster than mailing. It also shows the trust certification form number TR-2024-A that your attorney needs to complete.\n[00:05:15.640 --> 00:05:35.880]   Is there a deadline for submitting all this?\n[00:05:35.880 --> 00:05:55.240]   Yes, we need all documents within 60 days of the initial claim filing. That gives you until March 15th. Would you like me to also send this information to your attorney?\n[00:05:55.240 --> 00:06:15.720]   Yes, please. His email is jwilliams@willliamslaw.com.\n[00:06:15.720 --> 00:06:45.880]   I'll send that right away. One more thing - because this is a trust claim over $100,000, we'll need a recent trust certification dated within 30 days of submission. Make sure your attorney notes that on the form.\n[00:06:45.880 --> 00:07:05.240]   This is a lot to keep track of. What if I miss something?\n[00:07:05.240 --> 00:07:35.640]   Don't worry, I'm creating a case file with all these requirements. If anything's missing, we'll contact you right away. I'll also schedule a follow-up call for next week to check your progress. Would Tuesday at 2 PM work?\n[00:07:35.640 --> 00:07:45.320]   Yes, that would be helpful. Thank you.\n[00:07:45.320 --> 00:07:55.880]   You're welcome. Do you have any other questions about the documents needed?\n[00:07:55.880 --> 00:08:05.240]   No, I think the checklist will help. I'll gather everything and work with the attorney.\n[00:08:05.240 --> 00:08:25.640]   Perfect. Remember, you can call us anytime with questions. The claim number is CLM-2024-73921 - reference that when you call.\n[00:08:25.640 --> 00:08:35.320]   Thank you for explaining everything so clearly.\n[00:08:35.320 --> 00:08:45.640]   You're welcome, Ms. Thompson. I'll talk to you next Tuesday.",
+            "ExpectedOutput": {
+                "id": "2024b003-0001-0000-0000-000000000000",
+                "comprehensiveCallSummary": "Beneficiary calling about life insurance claim for deceased mother, requiring multiple trust-related documents and certifications for processing, with clear documentation requirements and follow-up plan established",
+                "keyPoints": [
+                    "Death claim for policy with trust as beneficiary",
+                    "Multiple required documents identified",
+                    "Attorney involvement needed for trust certification",
+                    "Secure submission process explained",
+                    "Follow-up call scheduled for document review",
+                    "60-day deadline established"
+                ],
+                "policies": [
+                    {
+                        "policyNumber": "73921",
+                        "policyType": "Life Insurance",
+                        "policyHolder": "Margaret Thompson",
+                        "startDate": null,
+                        "beneficiaries": {
+                            "primary": [
+                                "Thompson Family Trust"
+                            ],
+                            "contingent": [],
+                            "intendedChanges": []
+                        }
+                    }
+                ],
+                "referenceNumbers": [
+                    {
+                        "number": "CLM-2024-73921",
+                        "type": "Claim Number",
+                        "date": "2024-01-15"
+                    },
+                    {
+                        "number": "TR-2024-A",
+                        "type": "Trust Certification Form",
+                        "date": null
+                    }
+                ],
+                "customer": {
+                    "firstName": "Susan",
+                    "lastName": "Thompson",
+                    "email": "susan.thompson@email.com",
+                    "relationship": "Daughter/Trustee"
+                },
+                "importantFacts": [
+                    {
+                        "fact": "Death certificate received on January 15th",
+                        "type": "Documentation",
+                        "confidence": 0.99
+                    },
+                    {
+                        "fact": "Trust is primary beneficiary",
+                        "type": "Policy Structure",
+                        "confidence": 0.99
+                    },
+                    {
+                        "fact": "Claim requires attorney certification",
+                        "type": "Requirements",
+                        "confidence": 0.99
+                    }
+                ],
+                "importantDates": [
+                    {
+                        "date": "2024-03-15",
+                        "type": "Documentation Deadline",
+                        "confidence": 0.99
+                    },
+                    {
+                        "date": "2024-01-15",
+                        "type": "Death Certificate Receipt",
+                        "confidence": 0.99
+                    }
+                ],
+                "singleSentenceSummary": "Complex trust-based life insurance claim requiring multiple certified documents, legal certifications, and coordinated effort between beneficiary and attorney within 60-day deadline",
+                "conversationTone": "Professional and empathetic, with clear explanation of complex requirements",
+                "reasonForCalling": "Life insurance claim documentation requirements",
+                "solutionProposed": true,
+                "offeredSolution": "Detailed documentation checklist, secure upload process, and scheduled follow-up call",
+                "confidenceScores": {
+                    "overallConfidence": 0.98,
+                    "factExtraction": 0.99,
+                    "policyInformation": 0.95,
+                    "customerInformation": 0.99
+                },
+                "crop": {
+                    "type": "DocumentationNeeded",
+                    "trigger": "Complex trust-based claim requiring multiple certified documents and legal verification",
+                    "recommendation": "Implement proactive document tracking and scheduled follow-up process",
+                    "evidence": [
+                        "Multiple required documents for trust claim",
+                        "Need for certified copies and notarization",
+                        "Attorney certification requirement",
+                        "Specific form requirements (TR-2024-A)",
+                        "60-day submission deadline",
+                        "Claim value over $100,000 requiring additional certification"
+                    ],
+                    "policyNumberReference": "73921",
+                    "originalAnalysis": "2024b003-0001-0000-0000-000000000000"
+                }
+            }
+        },
+
+        {
+            "Input": "[00:00:00.960 --> 00:00:04.040]   Thank you for calling Southern Farm Bureau Life Insurance.\n[00:00:04.040 --> 00:00:06.640]   This is Amanda speaking. How can I help you today?\n[00:00:06.640 --> 00:00:13.880]   Hi, I'm calling about adding an indexed universal life rider to my current policy.\n[00:00:13.880 --> 00:00:18.240]   Oh... um, could I have your policy number please?\n[00:00:18.240 --> 00:00:24.960]   Sure, it's 45721. My name is David Martinez.\n[00:00:24.960 --> 00:00:30.320]   Um, let me pull that up for you... one moment please.\n[00:00:30.320 --> 00:00:45.760]   While you're looking, I've been reading about how these riders can help with market participation while maintaining downside protection. The S&P 500 index option looks interesting.\n[00:00:45.760 --> 00:00:52.480]   I... well... I see your policy here. It's a whole life policy with a face value of $250,000.\n[00:00:52.480 --> 00:01:02.320]   Right, and I'd like to explore adding the indexed component. I understand there's a cap rate and participation rate we should discuss?\n[00:01:02.320 --> 00:01:12.640]   Um... let me see... I'm not seeing anything about index options in my system...\n[00:01:12.640 --> 00:01:22.880]   Really? Your website specifically mentions indexed universal life options. Are you familiar with how they work?\n[00:01:22.880 --> 00:01:32.320]   Well... we do have different types of policies... maybe I should transfer you to someone else...\n[00:01:32.320 --> 00:01:45.760]   Before you transfer me, could you at least tell me what the current participation rate is? And whether you offer a fixed account option alongside the indexed account?\n[00:01:45.760 --> 00:01:55.440]   I'm... not really sure about those terms. Let me try to find someone in our advanced products department.\n[00:01:55.440 --> 00:02:10.880]   Okay, but please make sure they understand indexed products. This is the third time I've called, and no one seems able to explain the options.\n[00:02:10.880 --> 00:02:20.320]   I apologize for not being more helpful. Please hold while I transfer you.\n[00:02:20.320 --> 00:02:35.640]   [Hold music plays]\n[00:02:35.640 --> 00:02:45.280]   Mr. Martinez? This is Brian from Advanced Products. I understand you're interested in indexed universal life options?\n[00:02:45.280 --> 00:03:05.440]   Yes, finally! I've been researching this for weeks. Can you tell me about your current cap rates and if you offer any multiplier benefits?\n[00:03:05.440 --> 00:03:15.680]   Of course. Our current cap rate is 9.5% on the S&P 500 index strategy, and we do offer a 40% multiplier benefit after year 10.\n[00:03:15.680 --> 00:03:35.240]   That's helpful. What about the fixed account option? And do you offer any uncapped index strategies?\n[00:03:35.240 --> 00:03:45.520]   The fixed account currently credits 3.85%, and yes, we have an uncapped strategy with a 45% participation rate.\n[00:03:45.520 --> 00:03:55.840]   This is exactly what I've been trying to learn about. Why didn't the previous agents know any of this?\n[00:03:55.840 --> 00:04:05.120]   I apologize for the confusion earlier. You're right - we need to provide better training on our indexed products.\n[00:04:05.120 --> 00:04:35.360]   I appreciate your help, but it's concerning that basic product information isn't widely understood. I had to wait through three transfers.\n[00:04:35.360 --> 00:04:45.680]   You make a valid point. Would you like me to explain how we could add an indexed universal life component to your coverage?\n[00:04:45.680 --> 00:05:05.920]   Yes, please. And can you email me those rates and terms we discussed? My email is dmartinez@email.com.\n[00:05:05.920 --> 00:05:15.440]   Absolutely. I'll send that right over. Now, regarding your current policy, we have a few options...\n[00:05:15.440 --> 00:05:35.680]   Actually, before we get into that, what's the minimum participation amount? And is there a cap on how much I can allocate to the indexed account?\n[00:05:35.680 --> 00:05:50.240]   The minimum is $15,000 for the indexed account, and you can allocate up to 100% of your net premium after fees.\n[00:05:50.240 --> 00:06:10.480]   Good to know. My policy anniversary is coming up on April 15th. Would that be a good time to make these changes?\n[00:06:10.480 --> 00:06:25.920]   Yes, that would be ideal. We can process the changes then to align with your policy year. Would you like to schedule a follow-up call to complete the paperwork?\n[00:06:25.920 --> 00:06:45.160]   Sure, but please note in my file to have an advanced products person handle it. I don't want to explain indexed universal life again.\n[00:06:45.160 --> 00:07:00.480]   I understand completely. I'll handle your case personally. Is next Tuesday at 2 PM good for you?",
+            "ExpectedOutput": {
+                "id": "2024b004-0001-0000-0000-000000000000",
+                "comprehensiveCallSummary": "Customer inquired about indexed universal life products, exposing significant knowledge gaps among front-line CSRs regarding complex insurance products, requiring multiple transfers before reaching a knowledgeable representative",
+                "keyPoints": [
+                    "Multiple CSRs unable to explain indexed products",
+                    "Customer required three transfers to reach knowledgeable staff",
+                    "Basic product features not understood by initial CSR",
+                    "Customer expressing frustration over repeated calls",
+                    "Significant contrast in product knowledge between CSRs and advanced products team"
+                ],
+                "policies": [
+                    {
+                        "policyNumber": "45721",
+                        "policyType": "Whole Life",
+                        "policyAmount": 250000.00,
+                        "policyHolder": "David Martinez",
+                        "startDate": null,
+                        "premiumInformation": {
+                            "premium": 0.00,
+                            "premiumType": "Unknown"
+                        }
+                    }
+                ],
+                "customer": {
+                    "firstName": "David",
+                    "lastName": "Martinez",
+                    "email": "dmartinez@email.com",
+                    "phone": null,
+                    "relationship": "Policyholder"
+                },
+                "importantFacts": [
+                    {
+                        "fact": "Customer called three times about indexed products",
+                        "type": "ServiceHistory",
+                        "confidence": 0.99
+                    },
+                    {
+                        "fact": "Initial CSR unable to explain basic product features",
+                        "type": "ServiceQuality",
+                        "confidence": 0.99
+                    },
+                    {
+                        "fact": "Policy anniversary date approaching",
+                        "type": "PolicyInformation",
+                        "confidence": 0.95
+                    }
+                ],
+                "importantNumbers": [
+                    {
+                        "number": "250000",
+                        "type": "FaceValue",
+                        "confidence": 0.99
+                    },
+                    {
+                        "number": "9.5",
+                        "type": "CapRate",
+                        "confidence": 0.99
+                    },
+                    {
+                        "number": "3.85",
+                        "type": "FixedRate",
+                        "confidence": 0.99
+                    }
+                ],
+                "importantDates": [
+                    {
+                        "date": "2024-04-15",
+                        "type": "PolicyAnniversary",
+                        "confidence": 0.99
+                    }
+                ],
+                "singleSentenceSummary": "Customer inquiry about indexed universal life products revealed significant training needs for CSRs on complex insurance products, requiring multiple transfers and causing customer frustration",
+                "conversationTone": "Initially uncertain and hesitant, improving significantly with advanced products representative",
+                "reasonForCalling": "Inquiry about adding indexed universal life rider to existing policy",
+                "solutionProposed": true,
+                "offeredSolution": "Scheduled follow-up with advanced products specialist and offered to email product details",
+                "confidenceScores": {
+                    "overallConfidence": 0.98,
+                    "factExtraction": 0.99,
+                    "policyInformation": 0.95,
+                    "customerInformation": 0.90
+                },
+                "crop": {
+                    "type": "CSRTrainingNeeded",
+                    "trigger": "Significant knowledge gap in indexed universal life products among front-line CSRs",
+                    "recommendation": "Implement comprehensive training program on indexed products for all customer service representatives",
+                    "evidence": [
+                        "Initial CSR unable to explain basic indexed product features",
+                        "Multiple transfers required to reach knowledgeable staff",
+                        "Customer had to call three times for information",
+                        "CSR unfamiliar with participation rates and cap rates",
+                        "Contrast in knowledge between CSR and advanced products team",
+                        "Customer explicitly noting lack of product understanding"
+                    ],
+                    "policyNumberReference": "45721",
+                    "originalAnalysis": "2024b004-0001-0000-0000-000000000000"
+                }
+            }
+        },
+
+        {
+            "Input": "[00:00:00.960 --> 00:00:04.040]   Thank you for calling Southern Farm Bureau Life Insurance.\n[00:00:04.040 --> 00:00:06.640]   This is Jennifer speaking. How may I help you?\n[00:00:06.640 --> 00:00:20.880]   Hi Jennifer, I'm trying to update my information online but keep getting different errors. Some places show my old address, some my new one. It's very confusing.\n[00:00:20.880 --> 00:00:25.240]   I'll be happy to help. May I have your name and policy number?\n[00:00:25.240 --> 00:00:35.960]   I'm Emily Richardson, policy number 56382. I actually have three policies with you all.\n[00:00:35.960 --> 00:00:45.320]   Thank you, Ms. Richardson. I see your policies here. What information are you trying to update?\n[00:00:45.320 --> 00:01:15.760]   Well, I moved six months ago and updated my address through the agent, but I still get mail at my old address. Then I tried to set up online payments, but the website shows a different address entirely - one from two years ago. And my email seems wrong everywhere.\n[00:01:15.760 --> 00:01:25.480]   I apologize for the confusion. Let me check what's showing in our different systems.\n[00:01:25.480 --> 00:01:45.320]   Sure. And while you're checking, my phone number changed last month too. I called about that but when I got my premium notice yesterday, it still showed the old one.\n[00:01:45.320 --> 00:02:15.640]   I see the issue. Your address was updated in our main policy system but not in our billing system. And I'm showing three different phone numbers across your policies. Let me get all your current information to ensure everything is correct everywhere.\n[00:02:15.640 --> 00:02:35.880]   Okay. My current address is 1842 Magnolia Lane, Jackson, MS 39201. My cell is 601-555-8892, and my email is emily.r@email.com.\n[00:02:35.880 --> 00:02:45.240]   And is this cell phone your preferred contact number?\n[00:02:45.240 --> 00:02:55.640]   Yes, you can remove all the old numbers.\n[00:02:55.640 --> 00:03:15.720]   I'm updating this now. I notice your premium notices are still going to erichardson@oldmail.com. Should we update that too?\n[00:03:15.720 --> 00:03:25.880]   Yes, I haven't had that email in years! I missed several notices because of that.\n[00:03:25.880 --> 00:03:45.240]   I sincerely apologize for that. I'm also seeing your work address is still listed as a secondary contact. Is that still at Jackson Memorial Hospital?\n[00:03:45.240 --> 00:04:05.640]   No, I retired from there last year. I've been trying to update my employment status online too, but it keeps saying I need to fill out a form.\n[00:04:05.640 --> 00:04:35.320]   Yes, for employment changes we need a Status Update form. But I'm concerned about all these different contact points not being synchronized. Let me document everything we're finding. I see six different places where contact information needs to be standardized.\n[00:04:35.320 --> 00:04:55.480]   It's frustrating because I never know if you're getting my information or not. And for autopay, it wouldn't let me set it up because it said my address didn't match.\n[00:04:55.480 --> 00:05:15.640]   I understand your frustration. I'm going to submit an urgent update request for our IT department to synchronize your information across all systems. Let me list everything we're updating:\n[00:05:15.640 --> 00:05:45.880]   1. Home address in main policy system\n2. Address in billing system\n3. Address in online portal\n4. Phone number across all policies\n5. Email update for premium notices\n6. Removal of work address\n7. Employment status update\n8. Auto-pay system information\n\n[00:05:45.880 --> 00:06:05.240]   That's a lot of updates! Will this fix the autopay issue too?\n[00:06:05.240 --> 00:06:35.640]   Yes, once all systems are synchronized, you should be able to set up autopay. I'm creating a special case number for this: UPD-2024-8847. If you have any issues next week, reference this number when you call.\n[00:06:35.640 --> 00:06:45.320]   How long will all these updates take?\n[00:06:45.320 --> 00:07:05.880]   The main updates will be complete within 24 hours, but the full system synchronization might take 3-5 business days. Would you like me to schedule a follow-up call next week to verify everything?\n[00:07:05.880 --> 00:07:15.240]   Yes, please. Just use my cell phone - the new one you have now.\n[00:07:15.240 --> 00:07:35.640]   I'll call you next Wednesday at 2 PM. And I'm noting here that all future communications should go to emily.r@email.com and verify we have your correct cell number.\n[00:07:35.640 --> 00:07:45.320]   Thank you. This has been really confusing.\n[00:07:45.320 --> 00:07:55.880]   I understand, and I apologize for the inconvenience. We'll get all your information synchronized properly.",
+            "ExpectedOutput": {
+                "id": "2024b005-0001-0000-0000-000000000000",
+                "comprehensiveCallSummary": "Customer experiencing multiple issues with inconsistent contact information across different systems, revealing significant data synchronization problems affecting policy management and communications",
+                "keyPoints": [
+                    "Multiple systems showing different contact information",
+                    "Failed online update attempts",
+                    "Missed communications due to outdated email",
+                    "Auto-pay setup blocked by inconsistent data",
+                    "Systems synchronization needed across platforms",
+                    "Employment status update pending"
+                ],
+                "policies": [
+                    {
+                        "policyNumber": "56382",
+                        "policyType": "Multiple Policies",
+                        "policyHolder": "Emily Richardson",
+                        "startDate": null,
+                        "premiumInformation": null
+                    }
+                ],
+                "addresses": {
+                    "previous": [
+                        {
+                            "street": "Jackson Memorial Hospital",
+                            "city": "Jackson",
+                            "state": "MS",
+                            "zipCode": null,
+                            "validUntil": "2023"
+                        }
+                    ],
+                    "current": {
+                        "street": "1842 Magnolia Lane",
+                        "city": "Jackson",
+                        "state": "MS",
+                        "zipCode": "39201"
+                    }
+                },
+                "customer": {
+                    "firstName": "Emily",
+                    "lastName": "Richardson",
+                    "email": "emily.r@email.com",
+                    "phone": "601-555-8892",
+                    "relationship": "Policyholder"
+                },
+                "referenceNumbers": [
+                    {
+                        "number": "UPD-2024-8847",
+                        "type": "Update Case Number",
+                        "date": "2024-01-24"
+                    }
+                ],
+                "importantFacts": [
+                    {
+                        "fact": "Multiple inconsistent addresses across systems",
+                        "type": "SystemIssue",
+                        "confidence": 0.99
+                    },
+                    {
+                        "fact": "Customer retired but employment status not updated",
+                        "type": "StatusChange",
+                        "confidence": 0.99
+                    },
+                    {
+                        "fact": "Missing communications due to outdated contact info",
+                        "type": "CommunicationIssue",
+                        "confidence": 0.99
+                    }
+                ],
+                "importantDates": [
+                    {
+                        "date": "2023",
+                        "type": "RetirementDate",
+                        "confidence": 0.90
+                    },
+                    {
+                        "date": "2024-01-31",
+                        "type": "FollowUpCall",
+                        "confidence": 0.99
+                    }
+                ],
+                "singleSentenceSummary": "Multiple system synchronization issues discovered during customer's attempt to update contact information, revealing need for comprehensive data management update across platforms",
+                "conversationTone": "Customer frustrated but patient, representative professional and thorough",
+                "reasonForCalling": "Unable to update contact information consistently across systems",
+                "solutionProposed": true,
+                "offeredSolution": "Comprehensive system synchronization request and scheduled follow-up verification",
+                "confidenceScores": {
+                    "overallConfidence": 0.98,
+                    "factExtraction": 0.99,
+                    "policyInformation": 0.95,
+                    "customerInformation": 0.99
+                },
+                "crop": {
+                    "type": "UpdateRequired",
+                    "trigger": "Multiple inconsistent contact information records across different systems",
+                    "recommendation": "Implement system-wide data synchronization protocol and update contact information management systems",
+                    "evidence": [
+                        "Three different addresses in different systems",
+                        "Multiple phone numbers across policies",
+                        "Outdated email preventing communication",
+                        "Auto-pay setup blocked by data inconsistency",
+                        "Employment status not updated across systems",
+                        "Customer unable to update information online"
+                    ],
+                    "policyNumberReference": "56382",
+                    "originalAnalysis": "2024b005-0001-0000-0000-000000000000"
+                }
+            }
+        },
+
+        {
+            "Input": "[00:00:00.960 --> 00:00:04.040]   Thank you for calling Southern Farm Bureau Life Insurance.\n[00:00:04.040 --> 00:00:06.640]   This is Michael speaking. How may I assist you?\n[00:00:06.640 --> 00:00:20.880]   Hi, I'm calling because there's something wrong with my premium drafts. The amounts are inconsistent, and this month it drafted twice.\n[00:00:20.880 --> 00:00:25.240]   I'll help you look into this. May I have your name and policy number?\n[00:00:25.240 --> 00:00:35.960]   Thomas Anderson, policy 92475. I have the bank statements pulled up if you need any transaction numbers.\n[00:00:35.960 --> 00:00:55.320]   Thank you, Mr. Anderson. I see your policy here... and yes, I'm noticing some irregularities in the draft history. Your premium should be $127.84 monthly, but I'm seeing varying amounts.\n[00:00:55.320 --> 00:01:25.760]   Exactly. Last month it was $127.84, but the month before it was $135.62. Then this month, it drafted $127.84 on the 5th and again on the 7th. I called my bank to dispute the second charge, but they said I should talk to you first.\n[00:01:25.760 --> 00:01:45.480]   I apologize for this confusion. Let me check our premium processing system... I see what happened. There was a system update that affected how our bank draft requests are processed.\n[00:01:45.480 --> 00:02:05.320]   Well, it's causing problems with my account. The double draft put me in overdraft, and my bank charged me $34.\n[00:02:05.320 --> 00:02:35.640]   I'm so sorry about that. Looking at the details, the $135.62 charge included a late fee that shouldn't have been applied. Then this month, our system sent duplicate draft requests. I'll initiate a refund for the extra premium and the late fee right away.\n[00:02:35.640 --> 00:02:55.880]   What about the overdraft fee? And how do I make sure this doesn't happen again?\n[00:02:55.880 --> 00:03:15.240]   I'll submit a request to reimburse the overdraft fee as well. As for preventing future issues, we need to reverify your bank information and set up a new draft authorization.\n[00:03:15.240 --> 00:03:35.720]   But I've been paying by bank draft for three years without problems. Why do we need to set it up again?\n[00:03:35.720 --> 00:03:55.880]   Our recent system upgrade requires new authorizations to ensure proper processing. I can see here that your account is flagged for potential routing number format issues.\n[00:03:55.880 --> 00:04:15.240]   What does that mean? I haven't changed banks.\n[00:04:15.240 --> 00:04:45.640]   The new system has different requirements for how routing numbers are stored. Your account was set up under the old system. Some accounts are experiencing issues because of this. Could you verify your current bank information? The routing number we have is showing as 084201521.\n[00:04:45.640 --> 00:05:05.480]   That's not even close. My routing number is 084000026. No wonder there are problems!\n[00:05:05.480 --> 00:05:35.640]   This explains the issues. Our system tried to process both routing numbers, causing the duplicate draft. I'm documenting everything under case number PMT-2024-4731. The refund of $127.84 for the duplicate premium should appear in 3-5 business days.\n[00:05:35.640 --> 00:05:55.880]   And the late fee and overdraft charges?\n[00:05:55.880 --> 00:06:25.240]   The late fee of $7.78 will be refunded with the duplicate premium. For the overdraft fee, I'll need a copy of your bank statement showing the $34 charge. You can email that to claims@sfbli.com, referencing the case number.\n[00:06:25.240 --> 00:06:45.320]   Okay, I'll send that today. But what about next month's draft? I can't have more duplicate charges.\n[00:06:45.320 --> 00:07:05.880]   I'm going to suspend the automatic drafts temporarily and send you our new bank authorization form. Once you complete it, we'll set up the drafts under the new system. In the meantime, we can accept a direct payment for next month.\n[00:07:05.880 --> 00:07:25.240]   Can I pay online instead of by bank draft? I'm honestly nervous about auto-drafts now.\n[00:07:25.240 --> 00:07:45.640]   Absolutely. I can help you set up online payments right now. You'll have full control over when payments are made. Would you like to do that?\n[00:07:45.640 --> 00:07:55.880]   Yes, that would be better. What do you need from me?\n[00:07:55.880 --> 00:08:15.240]   First, I'll send you an email with a link to create your online account. What's your current email address?\n[00:08:15.240 --> 00:08:25.640]   It's tanderson@email.com\n[00:08:25.640 --> 00:08:55.880]   Thank you. I've sent the email. Once you set up your account, you can make payments directly. I'm also noting in your file that bank drafts are suspended. Would you like me to call you in a few days to confirm you received all the refunds?\n[00:08:55.880 --> 00:09:15.240]   Yes, please. And you're sure there won't be any more surprise drafts?\n[00:09:15.240 --> 00:09:35.640]   I've completely deactivated the bank draft authorization in both the old and new systems. No more drafts can occur until you submit a new authorization. Would you like me to note in your file that you prefer online payments going forward?\n[00:09:35.640 --> 00:09:45.320]   Yes, definitely. Thank you for helping sort this out.\n[00:09:45.320 --> 00:09:55.880]   You're welcome. I'll call you next week to follow up on the refunds.",
+            "ExpectedOutput": {
+                "id": "2024b006-0001-0000-0000-000000000000",
+                "comprehensiveCallSummary": "Customer experienced multiple bank draft issues including duplicate charges and incorrect amounts due to system upgrade affecting routing number processing, resulting in overdraft fees and customer losing confidence in auto-draft system",
+                "keyPoints": [
+                    "Duplicate premium drafts processed",
+                    "Incorrect routing number in system",
+                    "Late fee incorrectly applied",
+                    "System upgrade causing processing issues",
+                    "Customer incurred bank overdraft fees",
+                    "Transition needed from old to new system"
+                ],
+                "policies": [
+                    {
+                        "policyNumber": "92475",
+                        "policyType": "Unknown",
+                        "policyHolder": "Thomas Anderson",
+                        "premiumInformation": {
+                            "premium": 127.84,
+                            "premiumType": "Monthly"
+                        }
+                    }
+                ],
+                "paymentInformation": {
+                    "bankInformation": {
+                        "routingNumber": "084000026",
+                        "accountNumber": null,
+                        "accountType": null
+                    },
+                    "draftDate": 5,
+                    "premiumAmount": 127.84,
+                    "changes": [
+                        {
+                            "type": "DuplicateCharge",
+                            "amount": 127.84,
+                            "effectiveDate": "2024-01-07",
+                            "reason": "System Processing Error"
+                        },
+                        {
+                            "type": "IncorrectCharge",
+                            "amount": 135.62,
+                            "effectiveDate": "2023-12-05",
+                            "reason": "Incorrect Late Fee"
+                        }
+                    ]
+                },
+                "customer": {
+                    "firstName": "Thomas",
+                    "lastName": "Anderson",
+                    "email": "tanderson@email.com",
+                    "phone": null,
+                    "relationship": "Policyholder"
+                },
+                "referenceNumbers": [
+                    {
+                        "number": "PMT-2024-4731",
+                        "type": "Case Number",
+                        "date": "2024-01-24"
+                    }
+                ],
+                "importantFacts": [
+                    {
+                        "fact": "System upgrade affected routing number processing",
+                        "type": "SystemIssue",
+                        "confidence": 0.99
+                    },
+                    {
+                        "fact": "Incorrect routing number in system",
+                        "type": "DataError",
+                        "confidence": 0.99
+                    },
+                    {
+                        "fact": "Customer switching to online payments",
+                        "type": "PaymentChange",
+                        "confidence": 0.99
+                    }
+                ],
+                "importantNumbers": [
+                    {
+                        "number": "127.84",
+                        "type": "CorrectPremium",
+                        "confidence": 0.99
+                    },
+                    {
+                        "number": "34.00",
+                        "type": "OverdraftFee",
+                        "confidence": 0.99
+                    },
+                    {
+                        "number": "7.78",
+                        "type": "LateFee",
+                        "confidence": 0.99
+                    }
+                ],
+                "singleSentenceSummary": "System upgrade caused bank draft processing errors including duplicate charges and incorrect routing number usage, leading to customer financial impact and transition to online payments",
+                "conversationTone": "Customer concerned but patient, representative thorough and solution-oriented",
+                "reasonForCalling": "Bank draft irregularities and duplicate charges",
+                "solutionProposed": true,
+                "offeredSolution": "Refund processing, suspension of auto-drafts, and transition to online payments",
+                "confidenceScores": {
+                    "overallConfidence": 0.98,
+                    "factExtraction": 0.99,
+                    "policyInformation": 0.95,
+                    "customerInformation": 0.99
+                },
+                "crop": {
+                    "type": "PaymentIssue",
+                    "trigger": "System upgrade causing multiple payment processing errors and customer financial impact",
+                    "recommendation": "Complete system audit of bank draft processing and implement verification process for routing number migration",
+                    "evidence": [
+                        "Duplicate premium drafts processed",
+                        "Incorrect routing number in system",
+                        "Late fee incorrectly applied",
+                        "Customer incurred overdraft fees",
+                        "System upgrade causing processing issues",
+                        "Multiple customers potentially affected by routing number format changes"
+                    ],
+                    "policyNumberReference": "92475",
+                    "originalAnalysis": "2024b006-0001-0000-0000-000000000000"
+                }
+            }
+        },
+
+        {
+            "Input": "[00:00:00.960 --> 00:00:04.040]   Thank you for calling Southern Farm Bureau Life Insurance.\n[00:00:04.040 --> 00:00:06.640]   This is Lisa speaking. How may I help you?\n[00:00:06.640 --> 00:00:20.880]   Hi Lisa. I... I need to talk about canceling my policy. I just can't afford the premiums anymore since I lost my job.\n[00:00:20.880 --> 00:00:25.240]   I understand this must be difficult. May I have your name and policy number?\n[00:00:25.240 --> 00:00:35.960]   Sarah Mitchell, policy number 83691. I've had it for almost eight years.\n[00:00:35.960 --> 00:00:45.320]   Thank you, Ms. Mitchell. Before we discuss cancellation, could you tell me more about your situation?\n[00:00:45.320 --> 00:01:15.760]   Well, I was laid off three months ago. I've been using my savings to keep up with the payments - it's $245 a month. But I'm starting a new job next month that pays less, and I just don't see how I can keep paying this much. But I feel terrible about canceling. My kids are still in high school.\n[00:01:15.760 --> 00:01:35.480]   I appreciate you sharing that. I see you have a universal life policy with a death benefit of $500,000. There might be some options we can explore before canceling.\n[00:01:35.480 --> 00:01:45.320]   What kind of options? I thought I just had to keep paying the same amount.\n[00:01:45.320 --> 00:02:15.640]   With a universal life policy, you actually have some flexibility. I see your policy has accumulated $12,875 in cash value. We could temporarily reduce your premium payments by using some of the cash value to cover the difference. We could also look at reducing the death benefit temporarily.\n[00:02:15.640 --> 00:02:25.880]   I didn't know that was possible. How would that work?\n[00:02:25.880 --> 00:02:55.240]   You have several options. We could lower your premium to something more manageable - say $150 monthly - and use the cash value to maintain your current coverage. Or we could reduce the death benefit to $350,000, which would lower your premium to about $175 monthly. Once your financial situation improves, we can adjust these back up.\n[00:02:55.240 --> 00:03:15.720]   That sounds much better than canceling. But won't using the cash value cause problems later?\n[00:03:15.720 --> 00:03:45.880]   Good question. Using the cash value will reduce your policy's long-term growth, but it's often better than surrendering the policy entirely. Let me show you some projections. Would you prefer I email these to you? What's your email address?\n[00:03:45.880 --> 00:04:05.240]   Yes, please. It's sarah.mitchell@email.com. I'd like to see how this affects things long-term.\n[00:04:05.240 --> 00:04:35.640]   I'll send those right now. I'm also noting that you're starting a new job next month. Sometimes people don't realize their new employer might offer supplemental life insurance. Once you're eligible for those benefits, we could restructure your policy to complement your work coverage.\n[00:04:35.640 --> 00:04:55.480]   I didn't think about that. Maybe I should wait to make any changes until I see what they offer?\n[00:04:55.480 --> 00:05:25.640]   We could do that. For now, I can set up a temporary premium reduction for three months. That gives you time to start your new job and review their benefits. After that, we can reassess and make a long-term plan. Would you like to lower the premium to $150 for these three months?\n[00:05:25.640 --> 00:05:35.880]   Yes, that would help a lot. I really don't want to lose the coverage.\n[00:05:35.880 --> 00:05:55.240]   I understand. I'm processing that change now. I'll also send you information about our policy adjustment options and our financial hardship program. May I have your current phone number to update our records?\n[00:05:55.240 --> 00:06:15.720]   Sure, it's 601-555-3389. What's the financial hardship program?\n[00:06:15.720 --> 00:06:45.880]   It's a special program that can provide additional premium flexibility during temporary financial difficulties. While you might not need it with the premium reduction, I want you to have all available options. Let me schedule a follow-up call for three months from now, just before the temporary reduction ends.\n[00:06:45.880 --> 00:07:05.240]   Thank you, I appreciate this. I was really stressed about having to cancel.\n[00:07:05.240 --> 00:07:35.640]   You're welcome. I'm sending the emails now with the projections and program information. I've also created a case number for your temporary reduction: ADJ-2024-5922. If you have any questions before our follow-up call, just reference this number. Would you like me to go through the projections with you now?\n[00:07:35.640 --> 00:07:55.880]   Yes, that would be helpful. I want to make sure I understand everything.\n[00:07:55.880 --> 00:08:15.240]   Excellent. Let's look at the numbers together so you can make an informed decision about your long-term coverage options.",
+            "ExpectedOutput": {
+                "id": "2024b007-0001-0000-0000-000000000000",
+                "comprehensiveCallSummary": "Long-term policyholder experiencing financial hardship considered policy cancellation but was retained through education about flexible policy options and temporary premium reduction",
+                "keyPoints": [
+                    "Customer facing financial hardship due to job loss",
+                    "Initially unaware of policy flexibility options",
+                    "Temporary premium reduction implemented",
+                    "Policy review scheduled post-new employment",
+                    "Multiple retention options presented",
+                    "Customer education provided about policy features"
+                ],
+                "policies": [
+                    {
+                        "policyNumber": "83691",
+                        "policyType": "Universal Life",
+                        "policyAmount": 500000.00,
+                        "policyHolder": "Sarah Mitchell",
+                        "startDate": "2016-01-24",
+                        "premiumInformation": {
+                            "premium": 245.00,
+                            "premiumType": "Monthly",
+                            "changes": [
+                                {
+                                    "type": "Temporary Reduction",
+                                    "amount": 150.00,
+                                    "effectiveDate": "2024-02-01",
+                                    "reason": "Financial Hardship"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "customer": {
+                    "firstName": "Sarah",
+                    "lastName": "Mitchell",
+                    "email": "sarah.mitchell@email.com",
+                    "phone": "601-555-3389",
+                    "relationship": "Policyholder"
+                },
+                "referenceNumbers": [
+                    {
+                        "number": "ADJ-2024-5922",
+                        "type": "Adjustment Case Number",
+                        "date": "2024-01-24"
+                    }
+                ],
+                "importantFacts": [
+                    {
+                        "fact": "Policy has $12,875 in cash value",
+                        "type": "PolicyValue",
+                        "confidence": 0.99
+                    },
+                    {
+                        "fact": "Customer starting new job next month",
+                        "type": "LifeChange",
+                        "confidence": 0.99
+                    },
+                    {
+                        "fact": "Customer has dependent children in high school",
+                        "type": "FamilyStatus",
+                        "confidence": 0.95
+                    }
+                ],
+                "importantNumbers": [
+                    {
+                        "number": "245.00",
+                        "type": "OriginalPremium",
+                        "confidence": 0.99
+                    },
+                    {
+                        "number": "150.00",
+                        "type": "ReducedPremium",
+                        "confidence": 0.99
+                    },
+                    {
+                        "number": "12875.00",
+                        "type": "CashValue",
+                        "confidence": 0.99
+                    }
+                ],
+                "singleSentenceSummary": "Financial hardship nearly led to policy surrender, but customer was retained through education about flexible policy features and implementation of temporary premium reduction",
+                "conversationTone": "Initially distressed but becoming more optimistic as options were presented",
+                "reasonForCalling": "Intent to cancel policy due to financial hardship",
+                "solutionProposed": true,
+                "offeredSolution": "Temporary premium reduction utilizing cash value with scheduled review after starting new job",
+                "confidenceScores": {
+                    "overallConfidence": 0.98,
+                    "factExtraction": 0.99,
+                    "policyInformation": 0.99,
+                    "customerInformation": 0.95
+                },
+                "crop": {
+                    "type": "CustomerRetentionRisk",
+                    "trigger": "Financial hardship causing consideration of policy surrender",
+                    "recommendation": "Implement proactive outreach program for customers experiencing financial changes and expand education about policy flexibility options",
+                    "evidence": [
+                        "Customer initially calling to cancel policy",
+                        "Recent job loss affecting ability to pay",
+                        "Dependent children still needing coverage",
+                        "Lack of awareness about policy flexibility",
+                        "Customer expressing stress about potential cancellation",
+                        "Eight-year policy relationship at risk"
+                    ],
+                    "policyNumberReference": "83691",
+                    "originalAnalysis": "2024b007-0001-0000-0000-000000000000"
+                }
+            }
+        },
+
+        {
+            "Input": "[00:00:00.960 --> 00:00:04.040]   Thank you for calling Southern Farm Bureau Life Insurance.\n[00:00:04.040 --> 00:00:06.640]   This is Stephen speaking. How may I help you?\n[00:00:06.640 --> 00:00:20.880]   Hi, I want to withdraw money from my life insurance policy. I'm retiring next month and need to access my cash value.\n[00:00:20.880 --> 00:00:25.240]   I'll help you with that. May I have your name and policy number?\n[00:00:25.240 --> 00:00:35.960]   Richard Cooper, policy number 67234. I've had it since 1995.\n[00:00:35.960 --> 00:00:55.320]   Thank you, Mr. Cooper. I see your whole life policy here. Before we discuss withdrawals, could you tell me more about your retirement plans and how you intend to use this money?\n[00:00:55.320 --> 00:01:25.760]   Well, I'm retiring at 65, and I want to take out most of the cash value to pay off my mortgage. The agent who sold me the policy said it could be used for retirement. I figure I don't need as much life insurance now that the kids are grown.\n[00:01:25.760 --> 00:01:45.480]   I understand. Your policy has accumulated $87,500 in cash value. However, there are several important factors to consider before making a large withdrawal.\n[00:01:45.480 --> 00:02:05.320]   Like what? It's my money, right? I've been paying into this for almost 30 years.\n[00:02:05.320 --> 00:02:45.640]   Yes, you have access to your cash value, but withdrawing it will permanently reduce your death benefit and could have tax implications. Your policy currently has a death benefit of $250,000. There might be better ways to use this policy in retirement. For example, have you considered taking a policy loan instead of a withdrawal?\n[00:02:45.640 --> 00:02:55.880]   What's the difference? Either way, I'm getting money out, right?\n[00:02:55.880 --> 00:03:35.240]   There are significant differences. A withdrawal permanently reduces your death benefit and might be taxable if you withdraw more than your cost basis. A policy loan lets you access the money while keeping your death benefit intact. You'll pay interest on the loan, but it's often lower than commercial loan rates. Plus, your cash value continues to grow even while you have a loan outstanding.\n[00:03:35.240 --> 00:03:55.720]   I didn't know that. But why would I want to keep the death benefit? The kids are fine financially.\n[00:03:55.720 --> 00:04:35.880]   Life insurance in retirement can serve several purposes beyond family protection. It can help with estate planning, provide tax advantages, and offer financial security for your spouse. Also, your policy is participating, meaning it earns dividends. Last year, your dividend was $3,200. If you surrender or significantly reduce the policy, you'll lose future dividend earnings.\n[00:04:35.880 --> 00:04:55.240]   The mortgage rate is 6%. What's the policy loan rate?\n[00:04:55.240 --> 00:05:25.640]   Our current policy loan rate is 4.5%. However, since your cash value continues earning dividends, the effective rate is even lower. Would you like me to prepare a comparison showing different scenarios - full withdrawal, policy loan, or keeping the policy as is?\n[00:05:25.640 --> 00:05:45.880]   Yes, that would help. I guess I should talk to my tax advisor too?\n[00:05:45.880 --> 00:06:15.240]   Absolutely. Let me email you the comparison. What's your email address? I'll also include information about how policy loans can work as part of a retirement strategy. Then you can review it with your tax advisor before making any decisions.\n[00:06:15.240 --> 00:06:25.720]   It's rcooper@email.com. I'm glad I called before making a withdrawal.\n[00:06:25.720 --> 00:06:55.880]   I'd also like to have one of our financial services professionals contact you. They can explain how your life insurance fits into your overall retirement plan and discuss other options you might not have considered.\n[00:06:55.880 --> 00:07:15.240]   That makes sense. I really only thought about the cash value as a lump sum to use.\n[00:07:15.240 --> 00:07:45.640]   Many people don't realize how versatile permanent life insurance can be in retirement. What's the best number to reach you? We should also verify your beneficiary information while we're talking.\n[00:07:45.640 --> 00:07:55.880]   My cell is best - 601-555-4467. The beneficiary is still my wife, Jane.\n[00:07:55.880 --> 00:08:25.240]   Thank you. I've created case number RPE-2024-3391 for tracking our discussion. You'll receive an email with the comparisons and policy loan information within an hour. A financial services professional will call tomorrow to schedule a comprehensive retirement review.\n[00:08:25.240 --> 00:08:35.720]   Thank you for explaining everything. This gives me more to think about.\n[00:08:35.720 --> 00:08:45.880]   You're welcome. Is there anything else you'd like to know about your policy?",
+            "ExpectedOutput": {
+                "id": "2024b008-0001-0000-0000-000000000000",
+                "comprehensiveCallSummary": "Long-term policyholder considering cash value withdrawal for retirement received education about policy features and alternatives, preventing potentially disadvantageous financial decision",
+                "keyPoints": [
+                    "Customer planning retirement withdrawal",
+                    "Misunderstanding of policy loan vs withdrawal",
+                    "Education about tax implications provided",
+                    "Policy features and benefits explained",
+                    "Retirement planning consultation scheduled",
+                    "Preservation of death benefit discussed"
+                ],
+                "policies": [
+                    {
+                        "policyNumber": "67234",
+                        "policyType": "Whole Life",
+                        "policyAmount": 250000.00,
+                        "policyHolder": "Richard Cooper",
+                        "startDate": "1995",
+                        "premiumInformation": null
+                    }
+                ],
+                "customer": {
+                    "firstName": "Richard",
+                    "lastName": "Cooper",
+                    "email": "rcooper@email.com",
+                    "phone": "601-555-4467",
+                    "relationship": "Policyholder"
+                },
+                "referenceNumbers": [
+                    {
+                        "number": "RPE-2024-3391",
+                        "type": "Retirement Planning Case",
+                        "date": "2024-01-24"
+                    }
+                ],
+                "importantFacts": [
+                    {
+                        "fact": "Policy held since 1995 (29 years)",
+                        "type": "PolicyHistory",
+                        "confidence": 0.99
+                    },
+                    {
+                        "fact": "$87,500 accumulated cash value",
+                        "type": "PolicyValue",
+                        "confidence": 0.99
+                    },
+                    {
+                        "fact": "$3,200 annual dividend",
+                        "type": "PolicyPerformance",
+                        "confidence": 0.99
+                    }
+                ],
+                "importantNumbers": [
+                    {
+                        "number": "250000",
+                        "type": "DeathBenefit",
+                        "confidence": 0.99
+                    },
+                    {
+                        "number": "87500",
+                        "type": "CashValue",
+                        "confidence": 0.99
+                    },
+                    {
+                        "number": "4.5",
+                        "type": "LoanInterestRate",
+                        "confidence": 0.99
+                    }
+                ],
+                "importantDates": [
+                    {
+                        "date": "1995",
+                        "type": "PolicyStart",
+                        "confidence": 0.99
+                    }
+                ],
+                "singleSentenceSummary": "Customer seeking retirement withdrawal received crucial education about policy features and alternatives, leading to more informed decision-making about utilizing life insurance in retirement planning",
+                "conversationTone": "Initially focused on withdrawal, becoming more receptive to learning about options",
+                "reasonForCalling": "Request to withdraw cash value for retirement",
+                "solutionProposed": true,
+                "offeredSolution": "Comprehensive retirement review and policy loan comparison",
+                "confidenceScores": {
+                    "overallConfidence": 0.98,
+                    "factExtraction": 0.99,
+                    "policyInformation": 0.99,
+                    "customerInformation": 0.95
+                },
+                "crop": {
+                    "type": "CustomerProductEducation",
+                    "trigger": "Misunderstanding of life insurance's role in retirement planning",
+                    "recommendation": "Develop retirement-focused educational materials and proactive outreach program for policyholders approaching retirement age",
+                    "evidence": [
+                        "Customer unaware of policy loan advantages",
+                        "Limited understanding of tax implications",
+                        "Misconception about policy's retirement role",
+                        "Lack of awareness about dividend benefits",
+                        "Uncertainty about policy's estate planning value",
+                        "Need for comprehensive retirement planning"
+                    ],
+                    "policyNumberReference": "67234",
+                    "originalAnalysis": "2024b008-0001-0000-0000-000000000000"
+                }
+            }
+        },
+
+        {
+            "Input": "[00:00:00.960 --> 00:00:04.040]   Thank you for calling Southern Farm Bureau Life Insurance.\n[00:00:04.040 --> 00:00:06.640]   This is Rebecca speaking. How may I help you?\n[00:00:06.640 --> 00:00:20.880]   Hi Rebecca, I'm calling about my mother's policy. She's been diagnosed with Alzheimer's, and someone told me her life insurance might help with care costs.\n[00:00:20.880 --> 00:00:25.240]   I'll help you look into that. May I have your mother's policy number?\n[00:00:25.240 --> 00:00:35.960]   Yes, it's 78453. Her name is Patricia Wilson. I have power of attorney if you need to see that.\n[00:00:35.960 --> 00:00:45.320]   Thank you. And may I have your name?\n[00:00:45.320 --> 00:00:55.760]   Mary Wilson. Mom's had this policy for about 12 years.\n[00:00:55.760 --> 00:01:25.480]   Thank you, Ms. Wilson. I see your mother's policy here. It's a universal life policy with a death benefit of $200,000, and I'm pleased to tell you it does include our Accelerated Death Benefit Rider for Chronic Illness. However, there are specific requirements we need to review.\n[00:01:25.480 --> 00:01:45.320]   What does that mean exactly? We're looking at assisted living facilities, and they're so expensive.\n[00:01:45.320 --> 00:02:15.640]   The rider allows access to a portion of the death benefit while your mother is living if she meets certain criteria. Based on the diagnosis you mentioned, she may qualify. The maximum benefit is 50% of the death benefit or $100,000, whichever is less. Would you like me to explain how it works?\n[00:02:15.640 --> 00:02:25.880]   Yes, please. We had no idea this was even an option.\n[00:02:25.880 --> 00:02:55.240]   To qualify, we need certification from a licensed healthcare practitioner that your mother cannot perform at least two activities of daily living or requires substantial supervision due to cognitive impairment. The benefit can be used for any purpose - care facility, home care, or other expenses.\n[00:02:55.240 --> 00:03:15.720]   She definitely needs supervision. She can't be left alone anymore. What documentation do you need?\n[00:03:15.720 --> 00:03:45.880]   I'll send you our claim form that includes the physician's certification section. We'll also need your power of attorney documentation. Once approved, you can choose to receive the benefit as a lump sum or in installments. However, there are some important considerations we should discuss.\n[00:03:45.880 --> 00:04:05.240]   Like what? Will this affect her Medicaid eligibility?\n[00:04:05.240 --> 00:04:45.640]   Yes, that's one important factor. Receiving this benefit could affect Medicaid qualification. Also, using this rider will reduce the death benefit proportionally. For example, if you access $50,000 now, the remaining death benefit would be $150,000. There may also be tax implications depending on how the benefit is used. I strongly recommend consulting with a tax advisor before making a decision.\n[00:04:45.640 --> 00:05:05.480]   I see. Is there a minimum amount we have to take?\n[00:05:05.480 --> 00:05:35.640]   The minimum is $20,000. We also offer a care coordination service that can help evaluate your mother's needs and suggest care options. Would you like information about that program?\n[00:05:35.640 --> 00:05:55.880]   Yes, that would be helpful. We're just starting to figure all this out.\n[00:05:55.880 --> 00:06:25.240]   I'll email you a complete information packet about the rider, the claim form, and our care coordination program. What's your email address? The packet includes a worksheet to help estimate care costs and evaluate benefit options.\n[00:06:25.240 --> 00:06:35.720]   It's mwilson@email.com. Do you need anything else from me?\n[00:06:35.720 --> 00:06:55.880]   Yes, could you verify your mother's current address and phone number? Also, when was the Alzheimer's diagnosis made?\n[00:06:55.880 --> 00:07:15.240]   She's at 456 Oak Street, Jackson, MS 39201. Phone is 601-555-2383. She was diagnosed three months ago.\n[00:07:15.240 --> 00:07:45.640]   Thank you. I'm creating case number LB-2024-4482 for tracking this. I'll have our care coordination team call you tomorrow to discuss options. They can also help with the physician certification process. Would morning or afternoon be better?\n[00:07:45.640 --> 00:07:55.880]   Morning would be better. Thank you for explaining all this.\n[00:07:55.880 --> 00:08:25.240]   You're welcome. One more thing - while we're processing this, please keep paying the premiums to maintain the policy. I noticed there's also a premium waiver rider that might apply in this situation. Would you like me to look into that as well?\n[00:08:25.240 --> 00:08:35.720]   Yes, please. Anything that could help would be appreciated.\n[00:08:35.720 --> 00:08:45.880]   I'll have the care coordination team review that with you too. Is there anything else you'd like to know?",
+            "ExpectedOutput": {
+                "id": "2024b009-0001-0000-0000-000000000000",
+                "comprehensiveCallSummary": "Policyholder's daughter seeking information about using life insurance for Alzheimer's care costs discovered previously unknown living benefits, leading to comprehensive education about rider features and care coordination services",
+                "keyPoints": [
+                    "Chronic illness rider available but unknown to family",
+                    "Power of attorney considerations",
+                    "Care coordination services offered",
+                    "Premium waiver possibility identified",
+                    "Medicaid implications discussed",
+                    "Documentation requirements explained"
+                ],
+                "policies": [
+                    {
+                        "policyNumber": "78453",
+                        "policyType": "Universal Life",
+                        "policyAmount": 200000.00,
+                        "policyHolder": "Patricia Wilson",
+                        "startDate": "2012",
+                        "premiumInformation": null
+                    }
+                ],
+                "customer": {
+                    "firstName": "Mary",
+                    "lastName": "Wilson",
+                    "email": "mwilson@email.com",
+                    "phone": "601-555-2383",
+                    "relationship": "Daughter/POA"
+                },
+                "addresses": {
+                    "current": {
+                        "street": "456 Oak Street",
+                        "city": "Jackson",
+                        "state": "MS",
+                        "zipCode": "39201"
+                    }
+                },
+                "referenceNumbers": [
+                    {
+                        "number": "LB-2024-4482",
+                        "type": "Living Benefits Case",
+                        "date": "2024-01-24"
+                    }
+                ],
+                "importantFacts": [
+                    {
+                        "fact": "Alzheimer's diagnosis three months ago",
+                        "type": "Medical",
+                        "confidence": 0.99
+                    },
+                    {
+                        "fact": "Chronic Illness Rider available",
+                        "type": "PolicyFeature",
+                        "confidence": 0.99
+                    },
+                    {
+                        "fact": "Power of Attorney in place",
+                        "type": "Legal",
+                        "confidence": 0.99
+                    }
+                ],
+                "importantNumbers": [
+                    {
+                        "number": "200000",
+                        "type": "DeathBenefit",
+                        "confidence": 0.99
+                    },
+                    {
+                        "number": "100000",
+                        "type": "MaximumAcceleratedBenefit",
+                        "confidence": 0.99
+                    },
+                    {
+                        "number": "20000",
+                        "type": "MinimumAcceleratedBenefit",
+                        "confidence": 0.99
+                    }
+                ],
+                "singleSentenceSummary": "Family discovered previously unknown chronic illness rider benefits during mother's Alzheimer's diagnosis, leading to comprehensive education about living benefits and care coordination services",
+                "conversationTone": "Informative and supportive, focused on educating about available options",
+                "reasonForCalling": "Inquiry about using life insurance for Alzheimer's care costs",
+                "solutionProposed": true,
+                "offeredSolution": "Access to chronic illness rider benefits and care coordination services",
+                "confidenceScores": {
+                    "overallConfidence": 0.98,
+                    "factExtraction": 0.99,
+                    "policyInformation": 0.99,
+                    "customerInformation": 0.95
+                },
+                "crop": {
+                    "type": "CustomerProductEducation",
+                    "trigger": "Lack of awareness about living benefits and chronic illness riders",
+                    "recommendation": "Develop proactive education program about living benefits for all eligible policyholders",
+                    "evidence": [
+                        "Family unaware of existing rider benefits",
+                        "Need for explanation of qualification requirements",
+                        "Complex implications for Medicaid planning",
+                        "Multiple available features unknown to customer",
+                        "Additional rider benefits discovered during call",
+                        "Need for coordination with care services"
+                    ],
+                    "policyNumberReference": "78453",
+                    "originalAnalysis": "2024b009-0001-0000-0000-000000000000"
+                }
+            }
+        }
+    ]
+}
